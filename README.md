@@ -16,6 +16,6 @@ Achieved ~95.6% model accuracy on test data.
 
 ## How to Run
 1. Clone the repo
-2. Open the Jupyter Notebook
+2. Open the P2_Breast_Cancer_prediction_Using_SVM(ML).ipynb file on Jupyter Notebook
 3. Run all cells
 
